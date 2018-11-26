@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/uniswap-history/static/js/runtime~main.0ac065f8.js"
   },
   {
-    "revision": "2985c9870d33b3a42c78",
-    "url": "/uniswap-history/static/js/main.2985c987.chunk.js"
+    "revision": "651bedfdbd3cf547e574",
+    "url": "/uniswap-history/static/js/main.651bedfd.chunk.js"
   },
   {
     "revision": "d463b3b69ac50a365d3f",
     "url": "/uniswap-history/static/js/1.d463b3b6.chunk.js"
   },
   {
-    "revision": "2985c9870d33b3a42c78",
-    "url": "/uniswap-history/static/css/main.0a57ee1d.chunk.css"
+    "revision": "651bedfdbd3cf547e574",
+    "url": "/uniswap-history/static/css/main.abea0b62.chunk.css"
   },
   {
-    "revision": "c573181d7f5050b4bfafd15008d914b7",
+    "revision": "cd2b639aec8fa39b81293c8e8a5000d8",
     "url": "/uniswap-history/index.html"
   }
 ];
