@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "dce39d8cd6911020a066",
-    "url": "./static/js/main.dce39d8c.chunk.js"
+    "revision": "82c0e27a74df414959a9",
+    "url": "./static/js/main.82c0e27a.chunk.js"
   },
   {
-    "revision": "0694b4f3b69f4fa25707",
-    "url": "./static/css/1.b5bbd847.chunk.css"
+    "revision": "a0071d5ff78186607347",
+    "url": "./static/css/1.733de06e.chunk.css"
   },
   {
-    "revision": "0694b4f3b69f4fa25707",
-    "url": "./static/js/1.0694b4f3.chunk.js"
+    "revision": "a0071d5ff78186607347",
+    "url": "./static/js/1.a0071d5f.chunk.js"
   },
   {
     "revision": "4a686d48d5a089750c49",
@@ -24,52 +24,52 @@ self.__precacheManifest = [
     "url": "./static/media/Inter-UI-Italic.8c92c010.woff2"
   },
   {
-    "revision": "e4847cbdadfe00783d82fd8edf3359ec",
-    "url": "./static/media/Inter-UI-Medium.e4847cbd.woff2"
-  },
-  {
     "revision": "07e0d78f1bf3d7e5e23613a6a8997e18",
     "url": "./static/media/Inter-UI-SemiBold.07e0d78f.woff2"
+  },
+  {
+    "revision": "e4847cbdadfe00783d82fd8edf3359ec",
+    "url": "./static/media/Inter-UI-Medium.e4847cbd.woff2"
   },
   {
     "revision": "9c1cf88664638d2df51bf1de650937cb",
     "url": "./static/media/Inter-UI-Black.9c1cf886.woff2"
   },
   {
-    "revision": "a5562927d6e6e32be6830f466cdac586",
-    "url": "./static/media/Inter-UI-ExtraLight-BETA.a5562927.woff2"
-  },
-  {
     "revision": "b13ae77fa66e5ded92f150bdc51dde72",
     "url": "./static/media/Inter-UI-Thin-BETA.b13ae77f.woff2"
-  },
-  {
-    "revision": "125b2c92751695d8ca3e6d0f5bb85688",
-    "url": "./static/media/Inter-UI-Light-BETA.125b2c92.woff2"
   },
   {
     "revision": "4b0645d25e43a16240f49d3600329d75",
     "url": "./static/media/Inter-UI-LightItalic-BETA.4b0645d2.woff2"
   },
   {
-    "revision": "2a03709e94e43a7cac5f6fa41b08cf20",
-    "url": "./static/media/Inter-UI-MediumItalic.2a03709e.woff2"
+    "revision": "a5562927d6e6e32be6830f466cdac586",
+    "url": "./static/media/Inter-UI-ExtraLight-BETA.a5562927.woff2"
   },
   {
-    "revision": "7f4e06f5a8a0fbc713dd8c37abb88486",
-    "url": "./static/media/Inter-UI-SemiBoldItalic.7f4e06f5.woff2"
+    "revision": "125b2c92751695d8ca3e6d0f5bb85688",
+    "url": "./static/media/Inter-UI-Light-BETA.125b2c92.woff2"
   },
   {
     "revision": "e4746d870a18fb5fcd54cbc488b1a28c",
     "url": "./static/media/Inter-UI-Bold.e4746d87.woff2"
   },
   {
-    "revision": "f70fde73acbd2c5e2ebe5ef3a5abaf1d",
-    "url": "./static/media/Inter-UI-ExtraBold.f70fde73.woff2"
-  },
-  {
     "revision": "71cc82eb622e1fcfb2b55d07db74c145",
     "url": "./static/media/Inter-UI-BoldItalic.71cc82eb.woff2"
+  },
+  {
+    "revision": "7f4e06f5a8a0fbc713dd8c37abb88486",
+    "url": "./static/media/Inter-UI-SemiBoldItalic.7f4e06f5.woff2"
+  },
+  {
+    "revision": "2a03709e94e43a7cac5f6fa41b08cf20",
+    "url": "./static/media/Inter-UI-MediumItalic.2a03709e.woff2"
+  },
+  {
+    "revision": "f70fde73acbd2c5e2ebe5ef3a5abaf1d",
+    "url": "./static/media/Inter-UI-ExtraBold.f70fde73.woff2"
   },
   {
     "revision": "3270bbc36519a12e74f58f483c40dbb1",
@@ -92,6 +92,10 @@ self.__precacheManifest = [
     "url": "./static/media/Inter-UI-Regular.f3e1dc5a.woff"
   },
   {
+    "revision": "d3d01de19aa7c6f9e1f02ae47c81e829",
+    "url": "./static/media/Inter-UI-Italic.d3d01de1.woff"
+  },
+  {
     "revision": "a50b90e3220bf832dbe60bf476092c5e",
     "url": "./static/media/Inter-UI-Light-BETA.a50b90e3.woff"
   },
@@ -104,8 +108,8 @@ self.__precacheManifest = [
     "url": "./static/media/Inter-UI-SemiBold.c1c8fa3c.woff"
   },
   {
-    "revision": "d3d01de19aa7c6f9e1f02ae47c81e829",
-    "url": "./static/media/Inter-UI-Italic.d3d01de1.woff"
+    "revision": "baac7065b8bed11f146cc52b108f29a8",
+    "url": "./static/media/Inter-UI-Black.baac7065.woff"
   },
   {
     "revision": "768402cf585ec2fe52c01f152b043242",
@@ -116,8 +120,16 @@ self.__precacheManifest = [
     "url": "./static/media/Inter-UI-ExtraBold.56ca3527.woff"
   },
   {
-    "revision": "baac7065b8bed11f146cc52b108f29a8",
-    "url": "./static/media/Inter-UI-Black.baac7065.woff"
+    "revision": "215447418666d38ecdb5735d81b4dc0e",
+    "url": "./static/media/Inter-UI-ThinItalic-BETA.21544741.woff"
+  },
+  {
+    "revision": "81085c19449e0ca0770f503b93c397e8",
+    "url": "./static/media/Inter-UI-LightItalic-BETA.81085c19.woff"
+  },
+  {
+    "revision": "52b86f26ef76b8f81244968e3431fa98",
+    "url": "./static/media/Inter-UI-SemiBoldItalic.52b86f26.woff"
   },
   {
     "revision": "fd643b922cee7e5eb6c7a3537e3c5ecd",
@@ -128,32 +140,20 @@ self.__precacheManifest = [
     "url": "./static/media/Inter-UI-ExtraLight-BETA.02bc4a5a.woff"
   },
   {
-    "revision": "215447418666d38ecdb5735d81b4dc0e",
-    "url": "./static/media/Inter-UI-ThinItalic-BETA.21544741.woff"
+    "revision": "38a313cff9c3d25e22537692a0cce413",
+    "url": "./static/media/Inter-UI-BoldItalic.38a313cf.woff"
+  },
+  {
+    "revision": "0b86fa9f52c56a34ab4f0e57e3f9d2a6",
+    "url": "./static/media/Inter-UI-ExtraBoldItalic.0b86fa9f.woff"
   },
   {
     "revision": "c5a27379c515c6c7b9830a9a45365ab6",
     "url": "./static/media/Inter-UI-MediumItalic.c5a27379.woff"
   },
   {
-    "revision": "52b86f26ef76b8f81244968e3431fa98",
-    "url": "./static/media/Inter-UI-SemiBoldItalic.52b86f26.woff"
-  },
-  {
-    "revision": "81085c19449e0ca0770f503b93c397e8",
-    "url": "./static/media/Inter-UI-LightItalic-BETA.81085c19.woff"
-  },
-  {
-    "revision": "38a313cff9c3d25e22537692a0cce413",
-    "url": "./static/media/Inter-UI-BoldItalic.38a313cf.woff"
-  },
-  {
     "revision": "b10b8c637bae1d88de5e0b7b1b8d2d55",
     "url": "./static/media/Inter-UI-BlackItalic.b10b8c63.woff"
-  },
-  {
-    "revision": "0b86fa9f52c56a34ab4f0e57e3f9d2a6",
-    "url": "./static/media/Inter-UI-ExtraBoldItalic.0b86fa9f.woff"
   },
   {
     "revision": "a81c572e2558d0840a40bd741aba8b17",
@@ -172,7 +172,7 @@ self.__precacheManifest = [
     "url": "./static/media/Inter-UI.var.530180a3.woff2"
   },
   {
-    "revision": "65360dec2941d6c56764a8a6c033bf88",
+    "revision": "c0faa369e911f52f39faa7a5f7e8df72",
     "url": "./index.html"
   }
 ];
